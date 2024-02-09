@@ -1,0 +1,17 @@
+.container {
+    @apply mx-auto max-w-7xl px-2;
+}
+
+/* pantalla pequeña */
+@media (min-width: 640px) {
+    .container {
+        @apply px-6;
+    } 
+}
+
+/* pantalla grande */
+@media (min-width: 1024px) {
+    .container {
+        @apply px-8;
+    } 
+}
