@@ -68,7 +68,7 @@ php artisan migrate --seed
 
 ### Uso 
 
-Para ejecutar al proyecto de deben seguir los siguientes pasos:
+Para ejecutar el proyecto se deben seguir los siguientes pasos:
 
 1. Ejecutar el administrador de paquetes de Node.js:
 ```
