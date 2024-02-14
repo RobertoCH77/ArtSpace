@@ -17,7 +17,7 @@ Se puede acceder al despliegue en el siguiente enlace: [ArtSpace](https://king-p
 
 ### Manual de Usuario :notebook:
 
-El video que muestra las funciones del sistema se puede encontrar en: [Manual de usuario](https://youtu.be/EUrQTQ31)
+El video que muestra las funciones del sistema se puede encontrar en: [Manual de usuario](https://www.youtube.com/watch?v=bNSKl_wjrpI)
 
 ### Instalación :gear:
 
